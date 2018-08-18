@@ -1,0 +1,11 @@
+{
+    "HOST": "206.189.206.234",
+    "PORT": 1883,
+    "KEEPALIVE": 10,
+    "USERNAME": "",
+    "PASSWORD": "",
+    "CA_CERTS": "",
+    "DEVICE_ID": "$hostname",
+    "DEVICE_NAME": "$hostname",
+    "TOPIC": "$hostname/habit_1/$elemento"
+}
